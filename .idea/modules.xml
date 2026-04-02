@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SistemaCompuwork.java.iml" filepath="$PROJECT_DIR$/SistemaCompuwork.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompuWork.iml" filepath="$PROJECT_DIR$/CompuWork.iml" />
     </modules>
   </component>
 </project>
